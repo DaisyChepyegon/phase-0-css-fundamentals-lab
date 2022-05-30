@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+img{
+  align-items: center;
+}
+nav a{
+  align-items: center;
+  padding: 0px 10px;
+  background-color: grey;
+}
+figcaption{
+  font-size: medium;
+  text-align: center;
+}
+#details div{
+  background-color: red;
+  text-align: center;
+  width: 25%;
+  float: left;
+}
